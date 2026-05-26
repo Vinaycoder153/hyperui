@@ -4,7 +4,9 @@
 ![](https://img.shields.io/github/issues/markmead/hyperui)
 ![](https://img.shields.io/github/license/markmead/hyperui)
 
-HyperUI is a collection of free Tailwind CSS components that can be used in your next project. With a range of components, you can build your next marketing website, admin dashboard, eCommerce store and much more.
+HyperUI is a modern collection of beautifully designed, fully responsive, and accessible Tailwind CSS components.
+
+Build landing pages, SaaS apps, dashboards, eCommerce stores, AI products, and admin panels faster using copy-paste UI components optimized for modern development workflows.
 
 ![](https://hyperui.dev/og.jpg)
 
@@ -42,6 +44,12 @@ Browse the website for the components you need, copy the code and paste it into 
 ## Components
 
 HyperUI has a wide range of freely available components. These components include:
+
+| Category | Components |
+|----------|-------------|
+| Forms | Inputs, Selects, Checkboxes |
+| Navigation | Tabs, Breadcrumbs, Menus |
+| Feedback | Toasts, Loaders, Alerts |
 
 ### Application
 
